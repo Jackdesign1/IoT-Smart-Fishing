@@ -19,11 +19,11 @@ Sebuah alat pancing berbasis IoT yang mampu mendeteksi gerakan umpan, mengetahui
 4. Hasil dikirim ke pengguna melalui Telegram  
 
 ## 📷 Dokumentasi  
-### 🔧 Komponen Alat  
-![Komponen IoT](link_gambar_komponen)  
+![Diagram Sistem](image/desain_sistem.png)
 
-### 🛠️ Diagram Sistem  
-![Diagram Sistem](link_gambar_diagram)  
+![Komponen Alat](image/komponen.png)
+
+![Alat Dipasang ke Pancing](image/pemasangan.png)
 
 ### 🎣 Alat Dipasang ke Pancing  
 ![Alat di Pancing](link_gambar_pemasangan)  
