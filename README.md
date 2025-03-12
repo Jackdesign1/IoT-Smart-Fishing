@@ -25,9 +25,6 @@ Sebuah alat pancing berbasis IoT yang mampu mendeteksi gerakan umpan, mengetahui
 
 ![Alat Dipasang ke Pancing](image/pemasangan.png)
 
-### 🎣 Alat Dipasang ke Pancing  
-![Alat di Pancing](link_gambar_pemasangan)  
-
 ## 🔥 Cara Instalasi  
 1. Clone repositori ini:  
    ```bash
